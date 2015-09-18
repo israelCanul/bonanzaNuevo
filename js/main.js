@@ -49,15 +49,16 @@ function ajustar(){ // funcion para ajustar el tamaño de los sliders en diferen
       featureType: "poi.business",
       elementType: "labels",
       stylers: [
-        { visibility: "off" }
+        { visibility: "on" }
       ]
     }
   ];
               var mapOptions = {
-                  zoom: 14,
+                  zoom: 16,
                   mapTypeControl: true,
                   center: new google.maps.LatLng(txtLatitud, txtLongitud),
-                  mapTypeId: google.maps.MapTypeId.HYBRID
+                  mapTypeId: google.maps.MapTypeId.HYBRID,
+                  //styles:styleArray
               }
 
               var map = new google.maps.Map(document.getElementById('mapHotel'), mapOptions);
@@ -196,7 +197,7 @@ $(window).resize(function(){
 });
 
 $(document).ready(function(){
-      //google.maps.event.addDomListener(window, 'load', initialize);
+      google.maps.event.addDomListener(window, 'load', initialize);
       cargarHotelesPaquetes();
       $('#arrival').datebox('applyMinMax');
       $("#videoPrincipal").get(0).play();  /* video principal ['video']*/

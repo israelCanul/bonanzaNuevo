@@ -11870,3 +11870,303 @@ Stack trace:
 #1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
 #2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
 #3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:07:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:07:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2015/09/18 18:07:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:08:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:08:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:08:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:08:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:09:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:09:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:09:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:09:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:09:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:09:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:09:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:09:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:10:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:10:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:10:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:10:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:10:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:10:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:10:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:11:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:11:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:11:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:11:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:13:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:13:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:13:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:13:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:15:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:15:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:15:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:17:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:17:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:17:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:17:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:18:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:18:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:18:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:18:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:22:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:22:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:22:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:22:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:23:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg
+2015/09/18 18:23:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.mobile-1.4.5.min.map".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('js/jquery.mobil...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/js/jquery.mobile-1.4.5.min.map
+2015/09/18 18:23:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/galeria/about_us.jpg".' in C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php:281
+Stack trace:
+#0 C:\AppServ\www\bonanzanuevo\lib\yii\web\CWebApplication.php(136): CWebApplication->runController('images/galeria/...')
+#1 C:\AppServ\www\bonanzanuevo\lib\yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\AppServ\www\bonanzanuevo\index.php(18): CApplication->run()
+#3 {main} REQUEST_URI=/images/galeria/about_us.jpg

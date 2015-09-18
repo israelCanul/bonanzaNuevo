@@ -18,9 +18,9 @@
    <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js/main.js"></script>
    <!-- para el slider -->
    <script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js/owl.carousel.min.js"></script>
-   <!-- js para el mapa   
+   <!-- js para el mapa  --> 
    <script src="//maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript"></script>
--->
+
 
    <!-- Archivos CSS ****************************************************************************************************** -->   
    <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap.css">
