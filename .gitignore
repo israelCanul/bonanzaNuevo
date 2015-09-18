@@ -1,3 +1,4 @@
 /.idea
 /.hg
-/protected/config
+/protected/config/
+!/protected/config/main.php
