@@ -13,14 +13,7 @@ if($_SERVER['SERVER_NAME']=='bonanza.com.dev'){
 
 }else{
 
-	return array(
-	"class" => "CDbConnection",	
-	'connectionString' => 'mysql:host=lomastravel.com;dbname=lomasbet_admin',
-	'emulatePrepare' => true,
-	'username' => 'lomasbet',
-	'password' => 'CGQ%LF*w2r',
-	'charset' => 'utf8',
-	);
+
 
 }	
 
